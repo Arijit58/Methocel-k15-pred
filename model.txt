@@ -1,0 +1,1 @@
+Random forest classifier model for the prediction of ER  of synthetic/semi-synthetic/natural compounds in presence of Methocel k15.

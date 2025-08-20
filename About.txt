@@ -1,0 +1,1 @@
+This web-based application can predict the enhancement ratio (ER) of synthetic/semi-synthetic/natural compounds in presence of Methocel k15.
